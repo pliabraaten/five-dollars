@@ -1,8 +1,4 @@
 
+const main = new Main();
 
-
-console.log('hello world');
-
-
-
-// window.onload = main.onload.bind(main);
+main.onload();
